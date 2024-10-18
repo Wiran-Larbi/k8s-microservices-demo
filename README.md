@@ -3,7 +3,7 @@
 # Online Store Deployment Using Kubernetes
 
 This project demonstrates the deployment of an e-commerce application using Kubernetes, leveraging a microservices architecture for scalability, resilience, and maintainability.
-
+![Architecture](k8s-architecture.png)
 ## Key Features
 
 - **Microservices Architecture**: The application is split into multiple independent services such as `PaymentService`, `CartService`, `ShippingService`, `CheckoutService`, and more, each running in its own container.
