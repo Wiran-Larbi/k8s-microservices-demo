@@ -1,5 +1,3 @@
-Here’s the description tailored for a GitHub `README.md` file:
-
 ---
 
 # Online Store Deployment Using Kubernetes
@@ -47,3 +45,4 @@ The architecture consists of the following services:
 ---
 
 Feel free to adjust the instructions to match the actual repository structure if you have additional files, such as Dockerfiles or Kubernetes manifests!
+---
