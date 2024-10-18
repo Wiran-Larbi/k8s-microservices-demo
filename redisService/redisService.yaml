@@ -19,8 +19,8 @@ spec:
         volumeMounts:
         - name: redis-cart-data
           mountPath: /data
-    volumes:
-    - name: redis-cart-data
+      volumes:
+      - name: redis-cart-data
       emptyDir: {}
 ---
 apiVersion: v1
