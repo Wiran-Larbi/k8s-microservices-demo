@@ -40,8 +40,9 @@ The architecture consists of the following services:
 1. Clone the repository.
 2. Deploy the Kubernetes manifests using `kubectl`:
     ```bash
-    kubectl apply -f k8s/
+    kubectl apply -f *-Service.yaml
     ```
+    * for each microservice change to it's name.
 3. Access the frontend via the NodePort at `http://<NODE-IP>:30007`.
 
 ---
