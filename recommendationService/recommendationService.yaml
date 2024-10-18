@@ -6,7 +6,7 @@ spec:
   selector:
     matchLabels:
       app: recommendationservice
-  templates:
+  template:
     metadata:
       labels:
         app: recommendationservice

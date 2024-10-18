@@ -6,7 +6,7 @@ spec:
   selector:
     matchLabels:
       app: productcatalogservice
-  templates:
+  template:
     metadata:
       labels:
         app: productcatalogservice

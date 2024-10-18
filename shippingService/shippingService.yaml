@@ -6,7 +6,7 @@ spec:
   selector:
     matchLabels:
       app: shippingservice
-  templates:
+  template:
     metadata:
       labels:
         app: shippingservice

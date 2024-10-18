@@ -6,7 +6,7 @@ spec:
   selector:
     matchLabels:
       app: emailservice
-  templates:
+  template:
     metadata:
       labels:
         app: emailservice

@@ -6,7 +6,7 @@ spec:
   selector:
     matchLabels:
       app: adservice
-  templates:
+  template:
     metadata:
       labels:
         app: adservice

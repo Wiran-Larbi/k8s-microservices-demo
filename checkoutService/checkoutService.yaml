@@ -6,7 +6,7 @@ spec:
   selector:
     matchLabels:
       app: checkoutservice
-  templates:
+  template:
     metadata:
       labels:
         app: checkoutservice
