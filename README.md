@@ -45,6 +45,3 @@ The architecture consists of the following services:
 3. Access the frontend via the NodePort at `http://<NODE-IP>:30007`.
 
 ---
-
-Feel free to adjust the instructions to match the actual repository structure if you have additional files, such as Dockerfiles or Kubernetes manifests!
----
